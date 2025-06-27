@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there, I'm Bareera 👋
+I'm a 3rd year BSc Computer Science student.  
+I love working on AI, Flutter apps, web development, and mental health tech projects.
 
-<!--
-**bareeraverse/bareeraverse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently working on:
 
-Here are some ideas to get you started:
+- 🎯 "Pack Your Bag" app with weather + Google Maps integration using Flutter
+- 💻 AI project: Interview Scheduler using CSP and Priority
+- ✨ Blog: [Blur to Clarity]((https://blurtocalrity.online/)) on mental health
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Languages & Tools:  
+- Flutter & Dart  
+- Python (AI / ML)  
+- Java (Android)  
+- HTML/CSS/JavaScript  
+- Git & GitHub
+
+
